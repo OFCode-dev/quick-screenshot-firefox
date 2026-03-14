@@ -3,6 +3,6 @@
 ## Reporting a Vulnerability
 If you find a security issue, please do **not** open a public GitHub issue.
 
-Email: <YOUR SUPPORT EMAIL>
+Email: <farukbayrak13+OFCodeapps@gmail.com>
 
 I’ll respond as soon as possible and coordinate a fix/release.
