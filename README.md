@@ -37,4 +37,5 @@ Browser security may block screenshots on internal/protected pages such as:
 - [Microsoft Edge Add-ons listing](https://microsoftedge.microsoft.com/addons/detail/quick-screenshot-%E2%86%92-clipbo/ooiimcgholikdnlehogekbbfbmekinfb?hl=en)
 
 ## Support / Feedback
-- [Report a bug / request a feature (GitHub Issues)](https://github.com/farukbayrak22/quick-screenshot-firefox/issues)
+- [Report a bug / request a feature (GitHub Issues)](https://github.com/OFCode-dev/quick-screenshot-firefox/issues)
+- Questions or feedback? Email [contact@ofcodedev.me](mailto:contact@ofcodedev.me)
