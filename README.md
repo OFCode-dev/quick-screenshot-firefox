@@ -24,6 +24,11 @@ This extension removes the friction: **one click copies**, then you **paste anyw
 - **No data collection**
 - Everything runs **locally** in your browser
 
+## Firefox for Android
+The extension works on Firefox for Android (Firefox 142+): tap **⋮ → Extensions → Quick Screenshot → Clipboard**.
+
+Android's clipboard handling for images is more restrictive than desktop, so if the screenshot can't be copied directly, the extension opens the capture in a new tab instead. From there you can tap **Copy image**, or long-press the image to save or share it. The "✓" toolbar badge shown on desktop doesn't exist on Android's menu-based UI.
+
 ## Limitations
 Browser security may block screenshots on internal/protected pages such as:
 - `about:`
